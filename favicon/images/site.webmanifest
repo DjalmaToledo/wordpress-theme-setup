@@ -1,0 +1,14 @@
+{
+    "name": "projeto Dev",
+    "short_name": "projeto Dev",
+    "icons": [
+        {
+            "src": "http://localhost/~djalmatoledo/recicalce/wp-content/themes/recicalce/favicon/images/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "standalone"
+}
