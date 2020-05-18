@@ -18,7 +18,6 @@ header.principal-header {
 
 	.wrapper-logo {
 
-		border: 1px solid;
 		width: 18%;
 		display: inline-block;
 		vertical-align: top;
@@ -33,6 +32,9 @@ header.principal-header {
 
 @media screen and (max-width: 1185px) {
 
+	header.principal-header .wrapper-logo{
+		width: 200px;
+	}
 
 }
 

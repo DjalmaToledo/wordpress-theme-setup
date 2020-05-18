@@ -451,24 +451,6 @@ body, html, p, address {
     font-family: $fonteRg;
 }
 
-.center {
-
-    width: 1185px;
-    margin: 0 auto;
-}
-.line{
-  width: 100%;
-  float: left;
-}
-.full-wrapper .center{
-  width:1102px;
-}
-.line {
-
-  display: inline-block;
-  vertical-align: top;
-}
-
 img {
 
     max-width: 100%;
@@ -532,6 +514,17 @@ ul {
     float: right;
 }
 
+.center {
+    width: 1185px;
+    margin: 0 auto;
+}
+
+.full-wrapper .center{
+  width:1102px;
+}
+.textcenter{text-align:center;}
+
+
 iframe {
     max-width: 100%;
 }
@@ -583,7 +576,7 @@ a img.aligncenter {display: block;margin-left: auto;margin-right: auto}
 
   .center, .full-wrapper .center {
 
-    width: 100%;
+    width: 98%;
 
   }
 
